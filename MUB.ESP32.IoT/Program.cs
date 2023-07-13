@@ -128,6 +128,7 @@ namespace MUB.ESP32.IoT
                 60
                 );
 
+            // ToDo: HMAC Klasse einbauen
 
 
 
